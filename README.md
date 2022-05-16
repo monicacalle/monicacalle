@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **monicacalle369@gmail.com**
 
-- 📄 Know about my experiences [1XgAFeiijbs19pbnFBGg2NWgTCXccmTMr/view?usp=sharing](1XgAFeiijbs19pbnFBGg2NWgTCXccmTMr/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1XgAFeiijbs19pbnFBGg2NWgTCXccmTMr/view?usp=sharing
 
 - ⚡ Fun fact **Feeling myself like Socrates "I only know that I know nothing"... Kidding!! I´m on my way**
 
