@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BookMatch](https://github.com/jucemalco/theFinalProject)
 
-- 🌱 I’m currently learning **Javascript, React js, node js**
+- 🌱 I’m currently learning **Javascript, React js, node js Next js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monicacalle](https://github.com/monicacalle)
 
