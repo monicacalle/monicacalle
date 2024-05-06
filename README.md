@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monica Calle</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 Here's a sneak peek of my portfolio [https://my-portfolio-coral-zeta-44.vercel.app/]
+- 🔭 Sneak peek my portfolio here [https://my-portfolio-coral-zeta-44.vercel.app/]
 
 - 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/monicacalle](https://github.com/monicacalle)
 
 - 📫 How to reach me **monicacalle369@gmail.com**
 
